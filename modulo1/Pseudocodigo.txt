@@ -1,5 +1,5 @@
-Solução com pseudocódigo:
-início;
+SoluÃ§Ã£o com pseudocÃ³digo:
+inÃ­cio;
 Leia n;
 n1 = n-1;
 n2 = n-10
